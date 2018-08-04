@@ -1,0 +1,1 @@
+https://www.codewars.com/kata/moves-in-squared-strings-ii/train/java

@@ -1,0 +1,1 @@
+https://www.codewars.com/kata/equal-sides-of-an-array/train/java
