@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="284e11ed-8072-4589-9740-b59da87c43fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex28/ExampleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex28/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex28/exercise.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex29/StockList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex29/StockListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex29/exercise.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codewars/ex27/MexicanWave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codewars/ex27/MexicanWave.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,23 +18,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Kata.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ex28/Kata.java">
+      <file leaf-file-name="StockListTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex29/StockListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="221">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExampleTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex28/ExampleTests.java">
+      <file leaf-file-name="StockList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ex29/StockList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="236">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToIntFunction.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/ToIntFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -50,6 +62,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="golebiowskib" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -62,9 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ex003/SumDigPowerTest.java" />
-        <option value="$PROJECT_DIR$/src/ex004/Calc.java" />
-        <option value="$PROJECT_DIR$/src/ex004/CalcTest.java" />
         <option value="$PROJECT_DIR$/src/ex005/Vowels.java" />
         <option value="$PROJECT_DIR$/src/ex005/VowelsTest.java" />
         <option value="$PROJECT_DIR$/src/ex06/Codewars.java" />
@@ -113,6 +127,9 @@
         <option value="$PROJECT_DIR$/src/ex28/exercise.txt" />
         <option value="$PROJECT_DIR$/src/ex28/ExampleTests.java" />
         <option value="$PROJECT_DIR$/src/ex28/Kata.java" />
+        <option value="$PROJECT_DIR$/src/ex29/exercise.txt" />
+        <option value="$PROJECT_DIR$/src/ex29/StockListTest.java" />
+        <option value="$PROJECT_DIR$/src/ex29/StockList.java" />
       </list>
     </option>
   </component>
@@ -155,7 +172,7 @@
               <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="codewars" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ex28" type="462c0819:PsiDirectoryNode" />
+              <item name="ex29" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,6 +194,9 @@
       <recent name="C:\Users\Ituriello\git\codewars\src\ex02" />
       <recent name="C:\Users\Ituriello\git\codewars\src\ex01" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ex29" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ituriello\git\codewars\src" />
     </key>
@@ -193,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExampleTests">
+  <component name="RunManager" selected="JUnit.StockListTest.test1">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -289,19 +309,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SolutionTest.basicTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StockListTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex27.*" />
+          <option name="PATTERN" value="ex29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ex27" />
-      <option name="MAIN_CLASS_NAME" value="ex27.SolutionTest" />
-      <option name="METHOD_NAME" value="basicTest4" />
+      <option name="PACKAGE_NAME" value="ex29" />
+      <option name="MAIN_CLASS_NAME" value="ex29.StockListTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -351,19 +371,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SolutionTest.basicTest4" />
       <item itemvalue="JUnit.ExampleTests.testEncrypt" />
       <item itemvalue="JUnit.ExampleTests.testDecrypt" />
       <item itemvalue="JUnit.ExampleTests.testNullOrEmpty" />
       <item itemvalue="JUnit.ExampleTests" />
+      <item itemvalue="JUnit.StockListTest.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StockListTest.test1" />
         <item itemvalue="JUnit.ExampleTests" />
         <item itemvalue="JUnit.ExampleTests.testNullOrEmpty" />
         <item itemvalue="JUnit.ExampleTests.testDecrypt" />
         <item itemvalue="JUnit.ExampleTests.testEncrypt" />
-        <item itemvalue="JUnit.SolutionTest.basicTest4" />
       </list>
     </recent_temporary>
   </component>
@@ -377,44 +397,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533376227931</updated>
-      <workItem from="1533376231194" duration="9077000" />
+      <workItem from="1533376231194" duration="12972000" />
     </task>
+    <task id="LOCAL-00001" summary="Feat: encrypt and decrypt function">
+      <created>1533392961815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533392961815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExampleTests_testDecrypt - 2018.08.04 at 16h 18m 02s.xml">
-      <configuration name="ExampleTests.testDecrypt" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 14m 51s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleTests_testDecrypt - 2018.08.04 at 16h 18m 21s.xml">
-      <configuration name="ExampleTests.testDecrypt" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 18m 51s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleTests_testDecrypt - 2018.08.04 at 16h 18m 34s.xml">
-      <configuration name="ExampleTests.testDecrypt" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 19m 32s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleTests_testNullOrEmpty - 2018.08.04 at 16h 19m 58s.xml">
-      <configuration name="ExampleTests.testNullOrEmpty" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 22m 43s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleTests_testNullOrEmpty - 2018.08.04 at 16h 20m 06s.xml">
-      <configuration name="ExampleTests.testNullOrEmpty" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 23m 23s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleTests_testNullOrEmpty - 2018.08.04 at 16h 20m 49s.xml">
-      <configuration name="ExampleTests.testNullOrEmpty" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 23m 58s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleTests_testNullOrEmpty - 2018.08.04 at 16h 21m 11s.xml">
-      <configuration name="ExampleTests.testNullOrEmpty" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 24m 13s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleTests_testNullOrEmpty - 2018.08.04 at 16h 21m 23s.xml">
-      <configuration name="ExampleTests.testNullOrEmpty" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 24m 31s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleTests_testNullOrEmpty - 2018.08.04 at 16h 23m 12s.xml">
-      <configuration name="ExampleTests.testNullOrEmpty" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 24m 52s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleTests - 2018.08.04 at 16h 25m 36s.xml">
-      <configuration name="ExampleTests" configurationId="JUnit" />
+    <history-entry file="StockListTest_test1 - 2018.08.04 at 17h 28m 36s.xml">
+      <configuration name="StockListTest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9077000" />
+    <option name="totallyTimeSpent" value="12972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -456,51 +484,26 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat: encrypt and decrypt function" />
+    <MESSAGE value="Feat: Help the bookseller ! &#10;terrible string output" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Help the bookseller ! &#10;terrible string output" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="18" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex29/StockList.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ex004/CalcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex005/Vowels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex005/VowelsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex06/Codewars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex06/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex07/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -815,20 +818,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex28/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex28/ExampleTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex28/Kata.java">
+    <entry file="file://$PROJECT_DIR$/src/ex29/exercise.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/ToIntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex29/StockListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex29/StockList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
